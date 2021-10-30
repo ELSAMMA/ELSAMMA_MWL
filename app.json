@@ -126,7 +126,7 @@
             "value": "•━━━━╼⤏ELSAMMA⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Nandhutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "ELSAMMA Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
